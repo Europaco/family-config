@@ -1,0 +1,55 @@
+---
+name: Team Lunatic Family
+about: ''
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+Consult https://github.com/RoyaleAPI/cr-api-ux/wiki/Family-Config for detailed description of all the fields. Here are some tips:
+
+- `color`: teal
+- `key`: Team Lunatic
+- `emblem`:  Flame_03
+- `description` and `links`: large_blue_diamond Team Lunatic Family (TL) large_blue_diamond Top 2es ~~ Top 11 earth_africa
+- `tag`:  dYYU82JG9
+
+Fill in the configuration below:
+
+```yaml
+name: Team Lunatic Family
+key: Team Lunatic
+color: teal
+emblem: Flame_03
+info:
+  logo: https://i.ibb.co/vZx3wRc/Team-Lunatic.jpg
+  description: >
+    ¡Familia Team Lunatic, fundada en agosto de 2.019, con más de 200 miembros y 4 clanes activos!
+    Desde nuestra creación, hemos formado valores familiares e impulsado un nivel competitivo, que nos ha llevado al top mundial.
+    Miembros de cualquier parte del mundo, con gran nivel de actividad.
+
+    Somos un equipo con carácter, en búsqueda continua de talento y compromiso, al que aportar nuestras estrategias de mejora.
+
+    ¡Las guerras de clanes están en nuestro ADN!
+
+    
+ social:
+    - twitter: https://twitter.com/TeamLunaticCR?t=8yJu8KwR-SiifX0V02cgAg&s=08  
+    - instagram: https://www.instagram.com/teamlunaticcr/
+    - Telegram: t.me/FamiliaTL
+  
+  
+clans:
+  - name: Team Lunatic
+    tag: Q2CUV0C9    
+  - name: IMPERIUM DIPEP™
+    tag: 8UJRJUG8 
+  - name: Team Lunatic II
+    tag: YRGV289J
+  - name: Team Lunatic 3
+    tag: L8GQJ8G9
+  - name: Team Lunatic IV
+    tag: QPVPYGYV
+ 
+```
